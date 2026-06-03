@@ -1,4 +1,4 @@
-# GovaLab-SOC-Lab-Log-Management-with-Loggly-NXLog
+# SOC-Lab-Log-Management-with-Loggly-NXLog
 
 
 ![SOC Lab](https://img.shields.io/badge/SOC-Lab-blue) ![Loggly](https://img.shields.io/badge/Loggly-Log%20Management-orange) ![NXLog](https://img.shields.io/badge/NXLog-CE-green) ![Windows](https://img.shields.io/badge/OS-Windows-blue)
