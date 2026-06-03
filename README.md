@@ -169,18 +169,8 @@ json.eventid:4624
 
 ---
 
-## 📁 Project Structure
 
-```
-govalab-soc-lab/
-├── README.md
-├── configs/
-│   └── nxlog.conf
-└── docs/
-    └── loggly-setup.md
-```
 
----
 
 ##  Roadmap
 
